@@ -16,7 +16,7 @@
         "base58check": "^2.0.0",
         "bitgo-utxo-lib": "git+https://github.com/VerusCoin/bitgo-utxo-lib.git",
         "blake2b-wasm": "git+https://github.com/michaeltout/blake2b-wasm.git",
-        "ethers": "5.1.0",
+        "ethers": "5.7.2",
         "ini": "2.0.0",
         "long": "5.2.0",
         "react-native-cache": "git+https://github.com/michaeltout/react-native-cache.git",
