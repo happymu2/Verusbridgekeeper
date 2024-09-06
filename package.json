@@ -12,7 +12,7 @@
     "license": "ISC",
     "dependencies": {
         "async": "^3.2.4",
-        "axios": "0.25.0",
+        "axios": "1.6.8",
         "base58check": "^2.0.0",
         "bitgo-utxo-lib": "git+https://github.com/VerusCoin/bitgo-utxo-lib.git",
         "blake2b-wasm": "git+https://github.com/michaeltout/blake2b-wasm.git",
@@ -20,7 +20,7 @@
         "ini": "2.0.0",
         "long": "5.2.0",
         "react-native-cache": "git+https://github.com/michaeltout/react-native-cache.git",
-        "web3": "4.0.1"
+        "web3": "4.12.0"
     },
     "devDependencies": {
         "eslint": "8.11.0"
